@@ -2,7 +2,7 @@
 
 Submitted by: **Nathan Xaysena, Channacy Un**
 
-** 📱 Our innovative app empowers you to create your own customizable courses at your own pace, unlocking a world of knowledge right at your fingertips. Whether you're an avid learner, a passionate teacher, or simply seeking to expand your horizons, CourseCraft puts you in control of your educational journey. Our app embraces accessibility, breaking down barriers with features like speech-to-text functionality, ensuring that everyone can engage with the content effortlessly. Now, you can absorb knowledge and express your thoughts with ease, unleashing your full potential in a truly inclusive learning environment.**
+**📱 Our innovative app empowers you to create your own customizable courses at your own pace, unlocking a world of knowledge right at your fingertips. Whether you're an avid learner, a passionate teacher, or simply seeking to expand your horizons, CourseCraft puts you in control of your educational journey. Our app embraces accessibility, breaking down barriers with features like speech-to-text functionality, ensuring that everyone can engage with the content effortlessly. Now, you can absorb knowledge and express your thoughts with ease, unleashing your full potential in a truly inclusive learning environment.**
 
 
 
