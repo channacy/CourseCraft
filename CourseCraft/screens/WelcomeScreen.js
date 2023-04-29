@@ -1,10 +1,14 @@
 import { StatusBar } from 'expo-status-bar';
 import { Button, StyleSheet, Text, View, Image} from 'react-native';
-import {NavigationContainer} from '@react-navigation/native';
+import * as React from "react";
+
 
 export default function WelcomeScreen({navigation}) {
+
   return (
+    
     <View style={styles.container}>
+   
       <Image source={require("../assets/creativity.png")} style={styles.img}></Image>
       <Text>CourseCraft</Text>
       <Text> Welcome to CourseCraft – where education is redefined. Let the adventure begin!</Text>
@@ -13,10 +17,11 @@ export default function WelcomeScreen({navigation}) {
         navigation.navigate('Login')
       }></Button>
       </View>
-     
+  
     </View>
   );
 }
+
 const styles = StyleSheet.create({
   container: {
     flex: 1,

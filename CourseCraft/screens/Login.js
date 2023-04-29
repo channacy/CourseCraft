@@ -3,20 +3,24 @@ import { StatusBar } from 'expo-status-bar';
 import { Button, StyleSheet, Text, View, Image, TextInput} from 'react-native';
 import {NavigationContainer} from '@react-navigation/native';
 
-export default function LoginScreen() {
+
+export default function LoginScreen({navigation}) {
 const [number, onChangeNumber] = useState('');
   return (
-    
+
     <View style={styles.container}>
       <Image source={require("../assets/creativity.png")} style={styles.img}></Image>
       <Text>Enter your number: </Text>
       <TextInput style={styles.input} value={number} placeholder="123456789" onChangeText={onChangeNumber} maxLength={11}></TextInput>
       <View style={styles.btn}>
-        <Button style={styles.btn}  color="#FFFFFF" title="Continue"></Button>
+        <Button style={styles.btn}  color="#FFFFFF" title="Continue" onPress={() =>
+        navigation.navigate('Home')
+      }></Button>
       </View>
     </View>
   );
 }
+
 const styles = StyleSheet.create({
   container: {
     flex: 1,
