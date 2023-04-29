@@ -1,12 +1,12 @@
-# DragonHacks Project - *CourseCraft*
+# 🐉 Dragonhacks Project - *CourseCraft*
 
 Submitted by: **Nathan Xaysena, Channacy Un**
 
-**Our innovative app empowers you to create your own customizable courses at your own pace, unlocking a world of knowledge right at your fingertips. Whether you're an avid learner, a passionate teacher, or simply seeking to expand your horizons, CourseCraft puts you in control of your educational journey.**
+** 📱 Our innovative app empowers you to create your own customizable courses at your own pace, unlocking a world of knowledge right at your fingertips. Whether you're an avid learner, a passionate teacher, or simply seeking to expand your horizons, CourseCraft puts you in control of your educational journey.**
 
 
 
-## Features
+## 📝 Features
 
 
 * [ ] List anything else that you added to improve the site's functionality!
