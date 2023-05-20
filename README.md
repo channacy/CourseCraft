@@ -1,4 +1,4 @@
-# 🐉 DragonHacks 23 - *CourseCraft*
+# ✏️ *CourseCraft*
 
 Submitted by: **Nathan Xaysena, Channacy Un**
 
